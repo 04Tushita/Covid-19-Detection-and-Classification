@@ -1,1 +1,1 @@
-# Covid-19-Detection-and-Classification
+# PandemicShield - Covid 19 Detection and Translation
